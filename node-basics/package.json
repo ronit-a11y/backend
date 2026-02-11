@@ -1,0 +1,14 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "start" : "start"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "",
+  "license": "ISC"
+}
